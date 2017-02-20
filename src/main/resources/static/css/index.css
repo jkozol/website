@@ -1,0 +1,168 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,900);
+
+
+
+.dropdown-img {
+    height: 25px;
+    width: 25px;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    color: #777777;
+    font-family: 'Quicksand', sans-serif;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: 600;
+}
+
+h3 {
+    color: #777777;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+h5 {
+    /*color: #9d9d9d;*/
+    color: #7d7d7d;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+h3:after {
+    width: 40px;
+    height: 1px;
+    background: #dcdcdc;
+    content: " ";
+    display: block;
+    margin-top: 15px;
+}
+
+
+p {
+    font-size: 18px;
+    /*color: #9d9d9d;*/
+    color: #7d7d7d;
+    font-weight: 500;
+    font-family: 'Quicksand', serif;
+}
+
+a {
+    font-size: 18px;
+    color: #7d7d7d;
+    font-weight: 500;
+    font-family: 'Quicksand', serif;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #777777;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+
+.content {
+    margin-top: 75px; 
+}
+
+
+
+.skills {
+    margin-top: 75px;
+}
+
+#contact {
+    /*padding-left: 0%;*/
+    /*margin-left: 15.5%;*/
+}
+
+
+
+
+/* FOOTABL */
+
+
+.table > tbody > tr > td {
+    border-top: 0px;
+}
+
+.fooicon {
+    display: none;
+}
+
+thead {
+    color: #9d9d9d;
+    /*color: #7d7d7d;*/
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.footable-sortable {
+    /*color: #9d9d9d;*/
+    color: #7d7d7d;
+    font-weight: 400;
+}
+
+table.footable {
+    /*color: #9d9d9d;*/
+    color: #7d7d7d;
+    font-weight: 400;
+}
+
+.table {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 16px;
+}
+
+.table-hover > tbody > tr:hover {
+    color: #777777;
+}
+.table > thead > tr > th {
+    border-bottom: 0px;
+}
+
+.table > thead > tr > th:after {
+    width: 40px;
+    height: 1px;
+    background: #dcdcdc;
+    content: " ";
+    display: block;
+    margin-top: 15px;
+}
+
+.table > thead > tr {
+    font-size: 18px;
+}
+
+.table > thead > tr > th:nth-child(1) {
+    color: #777777;
+    font-size: 20px;
+    font-weight: 600;
+    padding-left: 0px;
+}
+
+.table > thead > tr > th:nth-child(3) {
+    padding-left: 0px;
+}
+
+.table > tbody > tr > td:nth-child(1) {
+    width: 38%;
+    padding-left: 0px;
+}
+
+.table > tbody > tr > td:nth-child(2) {
+    width: 22%;
+}
+
+.table > tbody > tr > td:nth-child(3) {
+    padding-left: 0px;
+    font-weight: 600;
+}
+

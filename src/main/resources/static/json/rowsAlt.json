@@ -1,0 +1,21 @@
+[
+	{"skill":"HTML", "type":"Languages", "proficiency":"||||||||||||||||||||"},
+	{"skill":"CSS", "type":"Languages", "proficiency":"||||||||||||||||"},
+	{"skill":"JavaScript", "type":"Languages", "proficiency":"||||||||||||||||"},
+	{"skill":"Java", "type":"Languages", "proficiency":"||||"},
+        {"skill":"Python", "type":"Languages", "proficiency":"||||||||||||||||"},
+        {"skill":"Golang", "type":"Languages", "proficiency":"||||||||"},
+        {"skill":"Bash", "type":"Languages", "proficiency":"||||||||||||"},
+        {"skill":"C", "type":"Languages", "proficiency":"||||||||||||||||"},
+        {"skill":"Linux (Arch, Debian)", "type":"OS", "proficiency":"||||||||||||"},
+        {"skill":"Windows", "type":"OS", "proficiency":"||||||||||||||||"},
+        {"skill":"IOS", "type":"OS", "proficiency":"||||||||||||||||"},
+        {"skill":"Spring", "type":"Library", "proficiency":"||||||||||||"},
+        {"skill":"Jetty", "type":"Library", "proficiency":"||||||||||||||||"},
+        {"skill":"Wordpress", "type":"Library", "proficiency":"||||||||||||"},
+        {"skill":"JQuery", "type":"Library", "proficiency":"||||||||"},
+        {"skill":"Ajax", "type":"Library", "proficiency":"||||"},
+        {"skill":"Sci-Kit Learn", "type":"Library", "proficiency":"||||||||||||||||"},
+        {"skill":"Tensor Flow", "type":"Library", "proficiency":"||||||||||||||||"},
+        {"skill":"Docker", "type":"Tool", "proficiency":"||||||||"}
+]
