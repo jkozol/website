@@ -1,5 +1,5 @@
 [
-	{"name":"skill","title":"Skills","breakpoints":"xs sm"},
-	{"name":"type","title":"Type","breakpoints":"xs sm"},
-	{"name":"proficiency","title":"Proficiency","breakpoints":"xs sm"}
+	{"name":"skill","title":"Skills","breakpoints":"xs"},
+	{"name":"type","title":"Type","breakpoints":"xs"},
+	{"name":"proficiency","title":"Proficiency","breakpoints":"xs"}
 ]

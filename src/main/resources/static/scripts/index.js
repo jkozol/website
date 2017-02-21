@@ -12,8 +12,10 @@
 */
 
 $(document).ready(function () {
-    $('.table').footable({
-        "columns": $.get('json/columns.json'),
-        "rows": $.get('json/rows.json')
+    jQuery(function($){
+        $('.table').footable({
+            "columns": $.get('json/columns.json'),
+            "rows": $.get('json/rows.json')
+        });
     });
 });
